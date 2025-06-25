@@ -37,12 +37,12 @@
 
 ## Графики метрик для первой версии train
 
-![График результатов train.py](/home/r0yaltyy/sobes/runs/detect/train/results.png)
+![График результатов train.py](/runs/detect/train/results.png)
 
 ## Графики метрик для второй версии train (train1)
 
-![График результатов train1.py](/home/r0yaltyy/sobes/runs/detect/train1/results.png)
+![График результатов train1.py](/runs/detect/train1/results.png)
 
 ## Графики метрик для третьей версии train (train2)
 
-![График результатов train2.py](/home/r0yaltyy/sobes/runs/detect/train2/results.png)
+![График результатов train2.py](/runs/detect/train2/results.png)
